@@ -28,8 +28,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sachinthaniyangoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shamshard-Hussain" height="30" width="40" /></a>
-<a href="https://web.facebook.com/sachinthahasaranga.sachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachintha hasaranga" height="30" width="40" /></a>  <a href="https://www.instagram.com/sachintha_hasaranga_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachintha hasaranga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sham-shard-a15963269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shamshard-Hussain" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010037832697&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shamshard Hussain" height="30" width="40" /></a>  <a href="https://instagram.com/shaam_._001?igshid=ZGUzMzM3NWJiOQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shamshard Hussain" height="30" width="40" /></a>
 
 </p>
 
